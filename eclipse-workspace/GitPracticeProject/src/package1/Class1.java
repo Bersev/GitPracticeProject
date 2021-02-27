@@ -5,6 +5,9 @@ public class Class1 {
 		
 		System.out.println("Hello World");
 		int numberOfclass=23;
+		double num=34.5;
+		
+		
 	}
 
 }
